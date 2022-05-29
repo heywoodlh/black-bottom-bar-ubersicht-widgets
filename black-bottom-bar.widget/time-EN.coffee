@@ -7,7 +7,7 @@
 # remove it.
 
 # this is the shell command that gets executed every time this widget refreshes
-command: "date '+%H:%M %A %d %b(%m) %Y'"
+command: "date '+%H:%M %A %d %b %Y'"
 
 # the refresh frequency in milliseconds
 refreshFrequency: 500 # every half second
